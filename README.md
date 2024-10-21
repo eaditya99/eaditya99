@@ -16,7 +16,6 @@ Welcome to my GitHub profile! I'm a passionate data analyst transitioning from a
 - **Project Management:** Agile, Lean, Production Planning
 
 ## 📊 My Recent Projects
-- **[Airbnb Analysis in Bangkok]**
 - **[Machine Learning development of Bike Sharing company](https://github.com/eaditya99/Capstone-Module-3-Edo-Sigit-Aditya)**
 - **[NYC TLC Analysis](https://github.com/eaditya99/Capstone-Project-Module-2-Edo-Sigit-Aditya-New-York-City-TLC-Trip-Record-)**
 
