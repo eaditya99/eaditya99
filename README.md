@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I'm a passionate data analyst transitioning from a
   - Managed sales activities and tracked progress towards achieving sales goals.
 
 ## 📫 How to reach me
-- **Email:** [edoaditya84@gmail.com](mailto:edoaditya84@gmail.com)
+- **Email:** [edosigitaditya99@gmail.com](mailto:edosigitaditya99@gmail.com)
 - **LinkedIn:** [Edo Aditya](https://www.linkedin.com/in/edo-aditya-0b2867103/)
 
 ## 🌟 Let's Connect!
