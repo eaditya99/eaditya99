@@ -16,6 +16,7 @@ Welcome to my GitHub profile! I'm a passionate data analyst transitioning from a
 - **Project Management:** Agile, Lean, Production Planning
 
 ## 📊 My Recent Projects
+- **[Nike Global Sales Analysis & Machine Learning Prediction of Price Optimization](https://github.com/eaditya99/Nike-Global-Sales-Data-2024)**
 - **[Marketplace Churn Analysis](https://github.com/eaditya99/Ecommerce-Churn)**
 - **[Saudi Arabia Used Car Market](https://github.com/eaditya99/Saudi-Arabia-Used-Cars-Analysis-and-Modeling)**
 - **[Machine Learning development of Bike Sharing company](https://github.com/eaditya99/Capstone-Module-3-Edo-Sigit-Aditya)**
